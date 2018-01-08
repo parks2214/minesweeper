@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2017.12.07" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="minesweeper.tsx"/>
+ <tileset firstgid="325" source="Minesweeper_LAZARUS_21x21_1.tsx"/>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKFL8/0jrsdQcNVUVVXV1w+HT5gB
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+</map>
